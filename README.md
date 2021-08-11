@@ -39,7 +39,7 @@ Repository: https://github.com/dotnet-foundation/wg-outreach
 
 [__Sponsorship__](https://github.com/dotnet-foundation/wg-corporate-relations#readme)
 
-The committee is responsible for working with sponsors of the foundation and acquiring new sponsorship opportunities.
+The committee is responsible for working with corporate sponsors of the foundation and acquiring new sponsors.
 
 Repository: https://github.com/dotnet-foundation/wg-corporate-relations
 
@@ -75,5 +75,4 @@ Repository: https://github.com/dotnet-foundation/wg-education
 
 * [__Content__](https://github.com/dotnet-foundation/content) - This repo is for submitting content for social amplification as well as content creation (i.e. blog, website, social). To get started [submit an issue.](https://github.com/dotnet-foundation/content/issues/new/choose) 
 * [__Projects__](https://github.com/dotnet-foundation/projects) - This repository is used for tracking onboarding for new projects and support for existing projects.
-
 
