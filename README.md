@@ -62,7 +62,7 @@ Repository: https://github.com/dotnet-foundation/wg-education
  The .NET Foundation supports the community by sponsoring Meetup Pro memberships around the globe. 
  Find an event here: https://www.meetup.com/pro/dotnet
 
-[__Virtual User Groups__](https://https://www.meetup.com/dotnet-virtual-user-group/)
+[__Virtual User Groups__](https://www.meetup.com/dotnet-virtual-user-group/)
 
 The .NET Virtual User Group works with global .NET User Groups to live stream presentations around the globe! Join today and signup for an upcoming live stream!
  
@@ -92,5 +92,4 @@ Check out our socials for the recordings of the events too!
 
 Have a question that isn't covered here?
 Please email: Contact@dotnetfoundation.org
-
 
