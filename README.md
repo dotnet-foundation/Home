@@ -49,9 +49,10 @@ The education committee is responsible for developing, sponsoring, and providing
 Repository: https://github.com/dotnet-foundation/wg-education
 
 
-*Not ready to join a committee yet?  Use the Teams section to start a topic discussion or join an existing thread. 
+*Not ready to join a committee yet?  Browse the the discussions tab for adding items to the General page, ideas, Q&A or just show off what you're working on in the Show and Tell.   
 
-[__Team Discussions__](https://github.com/orgs/dotnet-foundation/teams) Find the organizational team that your feedback or question relates to, and start a discussion. 
+[__Browse Discussions__](https://github.com/dotnet-foundation/Home/discussions)
+
 
 
 
@@ -72,12 +73,14 @@ The .NET Virtual User Group works with global .NET User Groups to live stream pr
 
 Check out our socials for the recordings of the events too! 
 
-## Get Social!
+## Get Social -  These are the best places to interact with your fellow members!
 
 * [__Facebook__](https://www.facebook.com/dotnetfoundation/) 
 * [__Twitter__](https://twitter.com/dotnetfdn) 
 * [__Newsletter__](https://dotnetfoundation.us12.list-manage.com/subscribe?u=9d9421a5cbd70d03dc69dc918&id=0d416ef7e3)
 * [__Youtube__](https://www.youtube.com/c/NETFoundation)
+* [__Slack__](https://netfoundation.slack.com)
+
 
 
 ## Related Repositories!
@@ -92,4 +95,6 @@ Check out our socials for the recordings of the events too!
 
 Have a question that isn't covered here?
 Please email: Contact@dotnetfoundation.org
+
+
 
