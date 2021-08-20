@@ -49,9 +49,10 @@ The education committee is responsible for developing, sponsoring, and providing
 Repository: https://github.com/dotnet-foundation/wg-education
 
 
-*Not ready to join a committee yet?  Browse the the discussions tab for adding items to the General page, ideas, Q&A or just show off what you're working on in the Show and Tell.   
-
+### Looking to start a discussion or not sure what committee to join? 
 [__Browse Discussions__](https://github.com/dotnet-foundation/Home/discussions)
+
+Each chair has been asked to post the committee agendas there prior to the meetings and the minutes after as discussion points. 
 
 
 
