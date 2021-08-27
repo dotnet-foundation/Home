@@ -6,7 +6,7 @@ We're excited to welcome you into the community we've built here and it's our go
 
 ## Committees!
 
-The committees that make up the .NET Foundation are where the work gets done.  Explore which group fits your time and expertise. Contact the chair of the committee to be added to the meetings. 
+The committees that make up the .NET Foundation are where the work gets done.  Explore which group fits your time and expertise.
 
 [__Project__](https://github.com/dotnet-foundation/projects#readme)
 
