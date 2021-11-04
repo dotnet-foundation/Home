@@ -18,6 +18,14 @@ The Project Committee sets high-level project requirements for joining the found
 
 Repository: https://github.com/dotnet-foundation/projects
 
+[__Maintainers__](https://github.com/dotnet-foundation/wg-maintainers)
+
+
+This committee is aimed at supporting maintainers of open source projects.
+
+Repository: https://github.com/dotnet-foundation/wg-maintainers
+
+
 [__Marketing__](https://github.com/dotnet-foundation/wg-marketing#readme)
 
 The marketing committee is here to help spread the message of openness in the .NET ecosystem. We support community and project initiatives, drive awareness and increase membership. We create consistent, powerful storytelling to increase share of conversation and establish industry relevance for the .NET Foundation.
@@ -25,7 +33,7 @@ The marketing committee is here to help spread the message of openness in the .N
 Repository: https://github.com/dotnet-foundation/wg-marketing
 
 [__Membership__](https://github.com/dotnet-foundation/wg-membership#readme)
- 
+
 The committee is responsible for evalutating new member applications, discussing membership criteria and the 
 
 Repository: https://github.com/dotnet-foundation/wg-membership
@@ -80,7 +88,7 @@ Check out our socials for the recordings of the events too!
 * [__Twitter__](https://twitter.com/dotnetfdn) 
 * [__Newsletter__](https://dotnetfoundation.us12.list-manage.com/subscribe?u=9d9421a5cbd70d03dc69dc918&id=0d416ef7e3)
 * [__Youtube__](https://www.youtube.com/c/NETFoundation)
-* [__Slack__](https://netfoundation.slack.com)
+
 
 
 
