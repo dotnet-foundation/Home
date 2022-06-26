@@ -1,14 +1,25 @@
+![Independent. Innovative. Always open source. Dotnet Bot picture](https://user-images.githubusercontent.com/31178401/175806083-1a71f611-db1a-44dc-95db-77dd548c7722.png)
+
+
 # Welcome to the .NET Foundation! 
 
-We're excited to welcome you into the community we've built here and it's our goal to help you get the most out of your membership. The .NET Foundation is ran by member volunteer efforts.  Let's get you started! 
+The .NET Foundation is an independent, non-profit organization established to support an innovative, commercially friendly, open-source ecosystem around the .NET platform.
 
+We're excited to welcome you into the community we've built here and it's our goal to help you get the most out of your membership. The .NET Foundation is ran by member volunteer efforts.  Let's get you started!
 
+## Become a member!
+
+The .NET ecosystem is constantly evolving and growing, and we've seen incredible innovation in the last few years with more to come. If you are passionate about the .NET ecosystem, then you should consider becoming a member.
+
+[**[ Why and how to become one ]**](https://dotnetfoundation.org/member)
 
 ## Committees!
 
 The committees that make up the .NET Foundation are where the work gets done.  Explore which group fits your time and expertise.
 
-[__Project__](https://github.com/dotnet-foundation/projects#readme)
+<hr>
+
+<details><summary><b>Projects</b></summary>
 
 The Project Committee sets high-level project requirements for joining the foundation. This includes but is not limited to the following:
 * Review and evaluate new Project applications
@@ -17,45 +28,70 @@ The Project Committee sets high-level project requirements for joining the found
 * Provide support to Projects
 
 Repository: https://github.com/dotnet-foundation/projects
+ 
+</details>
 
-[__Maintainers__](https://github.com/dotnet-foundation/wg-maintainers)
+<hr>
 
+<details><summary><b>Maintainers</b></summary>
 
 This committee is aimed at supporting maintainers of open source projects.
 
 Repository: https://github.com/dotnet-foundation/wg-maintainers
 
-
-[__Marketing__](https://github.com/dotnet-foundation/wg-marketing#readme)
+</details>
+ 
+ <hr>
+ 
+<details><summary><b>Marketing</b></summary>
 
 The marketing committee is here to help spread the message of openness in the .NET ecosystem. We support community and project initiatives, drive awareness and increase membership. We create consistent, powerful storytelling to increase share of conversation and establish industry relevance for the .NET Foundation.
 
 Repository: https://github.com/dotnet-foundation/wg-marketing
 
-[__Membership__](https://github.com/dotnet-foundation/wg-membership#readme)
+</details>
+ 
+ <hr>
+ 
+<details><summary><b>Membership</b></summary>
 
-The committee is responsible for evalutating new member applications, discussing membership criteria and the 
+The committee is responsible for evaluating new member applications and discussing membership criteria.
 
 Repository: https://github.com/dotnet-foundation/wg-membership
 
-[__Outreach__](https://github.com/dotnet-foundation/wg-outreach#readme)
+</details>
+
+<hr>
+
+<details><summary><b>Outreach</b></summary>
 
 The outreach committee is here to welcome developers of all backgrounds, education, and technology experience into the .NET ecosystem. We are here to help you organize and evangelize with your own .NET communities, opportunities, and events. 
 
 Repository: https://github.com/dotnet-foundation/wg-outreach
 
-[__Sponsorship__](https://github.com/dotnet-foundation/wg-corporate-relations#readme)
+</details>
+
+<hr>
+
+<details><summary><b>Sponsorship</b></summary>
 
 The committee is responsible for working with corporate sponsors of the foundation and acquiring new sponsors.
 
 Repository: https://github.com/dotnet-foundation/wg-corporate-relations
 
-[__Education__](https://github.com/dotnet-foundation/wg-education#readme)
+</details>
+
+<hr>
+
+<details><summary><b>Education</b></summary>
 
 The education committee is responsible for developing, sponsoring, and providing educational opportunities for the .NET community.
 
 Repository: https://github.com/dotnet-foundation/wg-education
 
+</details>
+
+<hr>
 
 ### Looking to start a discussion or not sure what committee to join? 
 [__Browse Discussions__](https://github.com/dotnet-foundation/Home/discussions)
