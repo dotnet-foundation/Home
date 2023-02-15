@@ -2,7 +2,7 @@
 
 We're excited to welcome you into the community we've built here and it's our goal to help you get the most out of your membership. The .NET Foundation is ran by member volunteer efforts.  Let's get you started! 
 
-
+To maximize your impact as a member, we invite you to join other members that are involved in the day to day workings by belonging to a working group/committee.
 
 ## Committees!
 
@@ -34,7 +34,7 @@ Repository: https://github.com/dotnet-foundation/wg-marketing
 
 [__Membership__](https://github.com/dotnet-foundation/wg-membership#readme)
 
-The committee is responsible for evalutating new member applications, discussing membership criteria and the 
+The committee is responsible for evaluating new member applications and discussing membership criteria. 
 
 Repository: https://github.com/dotnet-foundation/wg-membership
 
@@ -88,6 +88,7 @@ Check out our socials for the recordings of the events too!
 * [__Twitter__](https://twitter.com/dotnetfdn) 
 * [__Newsletter__](https://dotnetfoundation.us12.list-manage.com/subscribe?u=9d9421a5cbd70d03dc69dc918&id=0d416ef7e3)
 * [__Youtube__](https://www.youtube.com/c/NETFoundation)
+* [__Discord__](https://discord.gg/EFPgKwyFqF)
 
 
 
